@@ -1,3 +1,5 @@
+This proyect aims to relate inequality with obesity within municipalities of Mexico.
+
 Sources:
 
 GINI data is extracted from CONEVAL. Estimates based on the 2020 MCS-ENIGH and the 2020 Population and Housing Census sample, INEGI. https://www.coneval.org.mx/Medicion/Paginas/Pobreza-municipio-2010-2020.aspx
